@@ -1,0 +1,17 @@
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\bin\Debug\net8.0\LibraryManagement.exe
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\bin\Debug\net8.0\LibraryManagement.deps.json
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\bin\Debug\net8.0\LibraryManagement.runtimeconfig.json
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\bin\Debug\net8.0\LibraryManagement.dll
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\bin\Debug\net8.0\LibraryManagement.pdb
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\obj\Debug\net8.0\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\obj\Debug\net8.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\obj\Debug\net8.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\obj\Debug\net8.0\LibraryM.685EF3B5.Up2Date
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\obj\Debug\net8.0\LibraryManagement.dll
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\obj\Debug\net8.0\refint\LibraryManagement.dll
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\obj\Debug\net8.0\LibraryManagement.pdb
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\obj\Debug\net8.0\LibraryManagement.genruntimeconfig.cache
+C:\Users\Devoloper\Desktop\c#\LibraryManage\LibraryManagement\obj\Debug\net8.0\ref\LibraryManagement.dll
